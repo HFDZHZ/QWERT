@@ -1,0 +1,12 @@
+C:\Users\45901\source\repos\WMSShell\WMSShell\bin\Debug\WMSShell.exe.config
+C:\Users\45901\source\repos\WMSShell\WMSShell\bin\Debug\WMSShell.exe
+C:\Users\45901\source\repos\WMSShell\WMSShell\bin\Debug\WMSShell.pdb
+C:\Users\45901\source\repos\WMSShell\WMSShell\obj\Debug\WMSShell.csproj.AssemblyReference.cache
+C:\Users\45901\source\repos\WMSShell\WMSShell\obj\Debug\WMSShell.csproj.SuggestedBindingRedirects.cache
+C:\Users\45901\source\repos\WMSShell\WMSShell\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\45901\source\repos\WMSShell\WMSShell\obj\Debug\WMSShell.Properties.Resources.resources
+C:\Users\45901\source\repos\WMSShell\WMSShell\obj\Debug\WMSShell.csproj.GenerateResource.cache
+C:\Users\45901\source\repos\WMSShell\WMSShell\obj\Debug\WMSShell.csproj.CoreCompileInputs.cache
+C:\Users\45901\source\repos\WMSShell\WMSShell\obj\Debug\WMSShell.csproj.CopyComplete
+C:\Users\45901\source\repos\WMSShell\WMSShell\obj\Debug\WMSShell.exe
+C:\Users\45901\source\repos\WMSShell\WMSShell\obj\Debug\WMSShell.pdb
